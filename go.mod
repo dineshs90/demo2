@@ -1,4 +1,4 @@
-module github.com/dineshs90/demo2/v3
+module github.com/dineshs90/demo2/v2
 
 go 1.23.0
 
