@@ -30,3 +30,7 @@ func From11() {
 func From12() {
 	fmt.Println("I am in version v2.0.0")
 }
+
+func From13() {
+	fmt.Println("I am in version v3.0.0")
+}
